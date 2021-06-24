@@ -45,7 +45,7 @@
                         echo "<script language='JavaScript'>alert('fichier non envoyé !')</script>";
                         }
                     ?>
-                    </div>
+                </div>
             </form>
         </div>
         <div class="row border border-primary rounded p-3 m-4 text-secondary justify-content-center id=div2">
